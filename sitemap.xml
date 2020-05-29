@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://dictaphone.audio/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dictaphone.audio/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dictaphone.audio/ru/"/>
+  </url>
+  <url>
+    <loc>https://dictaphone.audio/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dictaphone.audio/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dictaphone.audio/ru/"/>
+  </url>
+
+  <url>
+    <loc>https://dictaphone.audio/how-to-record.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dictaphone.audio/how-to-record.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dictaphone.audio/ru/how-to-record.html"/>
+  </url>
+  <url>
+    <loc>https://dictaphone.audio/ru/how-to-record.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dictaphone.audio/how-to-record.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dictaphone.audio/ru/how-to-record.html"/>
+  </url>
+
+  <url>
+    <loc>https://dictaphone.audio/about-recorder.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dictaphone.audio/about-recorder.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dictaphone.audio/ru/about-recorder.html"/>
+  </url>
+  <url>
+    <loc>https://dictaphone.audio/ru/about-recorder.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dictaphone.audio/about-recorder.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dictaphone.audio/ru/about-recorder.html"/>
+  </url>
+
+  <url>
+    <loc>https://dictaphone.audio/disclaimer.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dictaphone.audio/disclaimer.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dictaphone.audio/ru/disclaimer.html"/>
+  </url>
+  <url>
+    <loc>https://dictaphone.audio/ru/disclaimer.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dictaphone.audio/disclaimer.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dictaphone.audio/ru/disclaimer.html"/>
+  </url>
+
+  <url>
+    <loc>https://dictaphone.audio/feedback.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dictaphone.audio/feedback.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dictaphone.audio/ru/feedback.html"/>
+  </url>
+  <url>
+    <loc>https://dictaphone.audio/ru/feedback.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dictaphone.audio/feedback.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dictaphone.audio/ru/feedback.html"/>
+  </url>
+</urlset>

@@ -1,0 +1,4 @@
+User-agent: *
+Host: https://dictaphone.audio/
+Sitemap: https://dictaphone.audio/sitemap.xml
+Disallow:
